@@ -19,8 +19,6 @@ La aplicación está compuesta de un servidor Express y una instalación básica
 
 
 # #Descripcion d ela solución
-No conozco mucho de redux pero lo poco lo pude plasmar en el proyecto, primero quiero ofrecer una disculpa en estas fechas de día de muertos en méxico en mi trabajo 
-teniamos agendado hacer el cambio de servidor ya que es día no laboral tanto en bancos como las demas plazas entonces si estuvimos ocupados el equipo de soporte, esto 
-es lo que logré resolver y me disculpo nuevamente.
+No conozco mucho de redux pero lo poco lo pude plasmar en el proyecto, primero quiero ofrecer una disculpa ya que en estas fechas de día de muertos en méxico en mi trabajo teniamos agendado hacer un cambio de servidor ya que es día no laboral tanto en bancos como las demas plazas de la empresa por lo que estuve ocupado solventando loa erorres y nuevas configuraciones de la migración y seguimos en ello, esto es lo que logré resolver y puedo seguir haciendo actualizaciones me disculpo nuevamente.
 
-continuando con la descripción
+
