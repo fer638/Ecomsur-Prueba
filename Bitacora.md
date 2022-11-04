@@ -15,7 +15,9 @@ La aplicación está compuesta de un servidor Express y una instalación básica
 
 `npm run dev`
 
-##Descripcion d ela solución
+
+
+# #Descripcion d ela solución
 No conozco mucho de redux pero lo poco lo pude plasmar en el proyecto, primero quiero ofrecer una disculpa en estas fechas de día de muertos en méxico en mi trabajo 
 teniamos agendado hacer el cambio de servidor ya que es día no laboral tanto en bancos como las demas plazas entonces si estuvimos ocupados el equipo de soporte, esto 
 es lo que logré resolver y me disculpo nuevamente.
