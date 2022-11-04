@@ -6,9 +6,9 @@ Instalar API (backend) y la aplicacion React (front):
    `npm install`
 2. Navega al directorio `front` y vuelve a correr el comando:
 
-   npm install
-   npm install redux-thunk
-   npm install boxicons react-router-dom
+   `npm install`
+   `npm install redux-thunk`
+   `npm install boxicons react-router-dom`
    
 3. Regresa al directorio root `cd ..`.
 
